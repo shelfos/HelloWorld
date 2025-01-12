@@ -1,8 +1,6 @@
 # Overview
 
-This is a basic Hello World program.  I created this to demonstrate the use of Visual Studio Code, GitHub, and Python integrated together.
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+This is a basic Hello World program.  I created this to demonstrate the use of Visual Studio Code, GitHub, and Python integrated together.  It's basic, but I admit I made it a bit more fancy by Googling how to print out one letter at a time.
 
 [Software Demo Video](https://youtu.be/SIPIal4fQ7E)
 
