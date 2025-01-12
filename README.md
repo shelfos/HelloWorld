@@ -4,7 +4,7 @@ This is a basic Hello World program.  I created this to demonstrate the use of V
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/SIPIal4fQ7E)
 
 # Development Environment
 
@@ -18,3 +18,4 @@ This is a basic Hello World program.  I created this to demonstrate the use of V
 * [Download git](https://git-scm.com/download)
 * [Download Visual Studio Code](https://code.visualstudio.com/download)
 * [Download Python](https://www.python.org/downloads/)
+* [Markdown Language Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
